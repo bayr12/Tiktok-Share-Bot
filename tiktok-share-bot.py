@@ -3,7 +3,7 @@
 
 import requests
 import webbrowser
-x = input("Whats youre video id? ")
+x = input("7089382827057253633 ")
 print("example: @user/video/ID")
 webbrowser.open("https://noelp-backend.xyz/shares?id=" + x)
 
